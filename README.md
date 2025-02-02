@@ -1,2 +1,3 @@
 # 1stdemo_project
-this is my first gig
+this is my first git
+Uthor - Anas
